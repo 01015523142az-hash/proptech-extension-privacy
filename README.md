@@ -1,0 +1,1 @@
+# proptech-extension-privacy
